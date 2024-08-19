@@ -30,8 +30,8 @@ const SingleQuestion = () => {
 const HomeBanner10 = () => {
   return (
     <>
-      <div className='la:w-full bg-blue-50 flex justify-center items-center'>
-        <div className='la:w-886px mt-4 la:mt-24'>
+      <div className='la:w-full ml-3 la:ml-0 la:bg-blue-50 flex justify-center w-80 items-center'>
+        <div className='la:w-884px mt-4 la:mt-24'>
           <p className='text-extra-light-blue text-3xl la:text-4xl la:mt-4 lfont-extrabold text-center '>Frequently Asked Questions</p>
           <div className='la:mt-20 la:mb-96 my-8 la:mx-8 '>
             <SingleQuestion />
