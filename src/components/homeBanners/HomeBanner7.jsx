@@ -6,8 +6,8 @@ const HomeBanner7 = () => {
       <div className='la:w-full la:h-745.48px bg-blue-50 la:py-52'>
 
         <div className='la:h-654.12px la:w-full la:flex la:justify-between shadow-xl la:items-center bg-white'>
-          <div className='la:relative la:bottom-0 la:ml-24'>
-            <img className='w-60 la:w-fit ml-14' src="/assets/Group 289984.png" alt="" />
+          <div className='la:relative la:mb-28 la:bottom-0  la:ml-24'>
+            <img className='la:w-full px-4' src="/assets/Group 289984.png" alt="" />
           </div>
 
           <div className='la:mr-24 my-4'>
